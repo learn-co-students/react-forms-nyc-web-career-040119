@@ -2,6 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-  <div>Mount Components Here</div>,
+  <div>I read the code along and understand the concepts.</div>,
   document.getElementById('root')
 );
